@@ -17,8 +17,8 @@
   <a href="https://instagram.com/dayanepacco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/DayanePacco#8228" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
   <a href ="mailto:dfsouzaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://www.linkedin.com/in/dayanepacco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+  <a href="https://www.linkedin.com/in/dayanepacco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
   ![Animação de cobra](https://github.com/dayanepacco/dayanepacco/blob/output/github-contribution-grid-snake.svg)
 
 </div>
